@@ -11,7 +11,7 @@ def ball8():
 
     example_question = 'Is Linux better than Windows?'
     #                                ^ obviously yes.
-    raw_input("Ask Me a question")
+    raw_input("Ask me a question")
     print(random.choice(possible_answers))
 
 ball8()
